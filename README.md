@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Eduardo👋
 
-- 🎓 Cursando 4º período de Ciência da Computação
+- 🎓 Cursando 1º período de Análise e Desenvolvimento de Sistemas
 - 💻 Estudando para me tornar um Desenvolvedor Web
 - Trabalhei como Monitor na faculdade de desenvolvimento de Aplicações Móveis, utilizando React Native, SQLite
 
