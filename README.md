@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lucas.edu.ca@hotmail.com">
+  <a href="mailto:lucas.cruz.alves22@hotmail.com">
     <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/lucaseduardocruz" target="_blank">
